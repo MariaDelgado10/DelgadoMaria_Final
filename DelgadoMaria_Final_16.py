@@ -52,3 +52,6 @@ def metropolis(x,y,t,v):
     return("coordenada x", xcamina, "coordenada y", ycamina, "tiempo de lanzamiento", tcamina, "velocidad del sonido", vcamina  )
 
 print(metropolis(4,100,62, 299792458))
+print(metropolis(10,5,60, 299792458))
+print(metropolis(12,80,61, 299792458))
+print(metropolis(80,50,61, 299792458))
